@@ -1,6 +1,6 @@
 # Sales Insights – Computer Hardware Business
 
-[Power BI | SQL]
+### [Power BI | SQL]
 
 ## Project Overview
 
