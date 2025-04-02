@@ -6,6 +6,8 @@
 
 This project involves designing and developing an interactive Power BI dashboard to analyze and visualize sales trends for AtliQ Hardware, a company dealing in computer hardware goods. The objective was to provide actionable insights that help decision-makers optimize sales strategies and improve revenue growth.
 
+---
+
 ### Key Features
 
 Sales Trend Analysis: Identifies patterns and fluctuations in sales over time.
@@ -22,6 +24,8 @@ Dynamic Filtering & Slicers: Allows users to filter data based on different dime
 
 SQL Integration: Used SQL queries for data extraction, transformation, and loading (ETL) before visualizing in Power BI.
 
+---
+
 ### Data Processing & Tools Used
 
 Data Source: SQL database containing sales records of AtliQ Hardware.
@@ -32,6 +36,8 @@ Visualization & Reporting: Power BI was used to create dynamic dashboards with i
 
 KPIs & Metrics: Revenue trends, sales growth percentage, top-selling products, sales by region, and profit margins.
 
+---
+
 ### Business Impact
 
 The dashboard provides real-time insights into sales trends, enabling data-driven decision-making.
@@ -40,9 +46,12 @@ Helps identify underperforming products and regions, allowing strategic interven
 
 By leveraging insights from the dashboard, AtliQ Hardware can increase revenue by at least 7% in the next quarter through targeted sales strategies.
 
+---
 
 ## **Power BI Report & Files**
 - **Power BI Report (.PBIX / .PBIT)**: [Click Here](https://app.powerbi.com/reportEmbed?reportId=abac6bc4-a664-46e6-a417-67e93b150f47&autoAuth=true&ctid=ac96d080-3376-4e49-9cbc-95f21bf77faa)   
+
+---
 
 ## **Links**  
  **Portfolio Project Page**: https://s1nen.github.io/Portfolio-Website/
