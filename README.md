@@ -65,6 +65,10 @@ By leveraging insights from the dashboard, AtliQ Hardware can increase revenue b
 
 <img width="562" alt="sales insights 2" src="https://github.com/user-attachments/assets/4ddcc72b-c8a7-447b-921d-0ae85789eaa9" />
 
-- **Mohammed Sinan A K** – [@S1nen](https://github.com/S1nen)
+Copyright © 2025 [Your Name]
 
-If you use this project, please give proper credit by linking back to this repository.
+## 🚫 License
+
+This project is **not open source**. It is shared publicly for **portfolio and demonstration purposes only**.
+
+Reuse, reproduction, or modification of this code is **not permitted** without express written permission.
