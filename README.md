@@ -5,7 +5,7 @@
 ## Project Overview
 
 This project involves designing and developing an interactive Power BI dashboard to analyze and visualize sales trends for AtliQ Hardware, a company dealing in computer hardware goods. The objective was to provide actionable insights that help decision-makers optimize sales strategies and improve revenue growth.
-
+## The .pbix file is available upon request
 ---
 
 ### Key Features
