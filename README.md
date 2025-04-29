@@ -65,7 +65,7 @@ By leveraging insights from the dashboard, AtliQ Hardware can increase revenue b
 
 
 
-Copyright © 2025 [Your Name]
+Copyright © 2025 [S1nen]
 
 ## 🚫 License
 
